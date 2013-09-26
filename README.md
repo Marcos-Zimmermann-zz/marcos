@@ -1,2 +1,5 @@
 #Editar fichero
-Marcos Zimmermann Casado tengo 22 años y cursé grado en ingeniería informática, especialización en computación. Me gusta hacer ejercicio y los videojuegos :)
+<nombre>Marcos Zimmermann Casado</nombre>
+<edad>22</edad>
+<carrera>grado en ingeniería informática, especialización en computación</carrera>
+<ocio>hacer ejercicio y los videojuegos</ocio>
