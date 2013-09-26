@@ -1,4 +1,4 @@
-nombre: Marcos Zimmermann
-edad: 22
-carrera: grado en ingeniería informática
-ocio: hacer ejercicio y videojuegos
+<nombre>Marcos Zimmermann Casado</nombre>
+<edad>22</edad>
+<carrera>grado en ingeniería informática, especialización en computación</carrera>
+<ocio>hacer ejercicio y los videojuegos</ocio>
